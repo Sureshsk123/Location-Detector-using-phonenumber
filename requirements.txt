@@ -1,0 +1,9 @@
+python
+phonenumbers
+folium
+opencage
+pandas
+geopy
+requests
+flask
+flask-cors
